@@ -5,7 +5,7 @@ int check_anagram(char [], char []);
 int main()
 {
    char a[100], b[100];
-   int flag;
+   int flag;//hai
 
    printf("Enter first string\n");
    gets(a);
