@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int check_anagram(char [], char []);
+int check_vinay();
 
 int main()
 {
@@ -21,6 +22,11 @@ int main()
       printf("\"%s\" and \"%s\" are not anagrams.\n", a, b);
 
    return 0;
+}
+
+int check_vinay()
+{
+	printf("my name is vinay");
 }
 
 int check_anagram(char a[], char b[])
