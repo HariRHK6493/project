@@ -55,3 +55,7 @@ int check_anagram(char a[], char b[])
 
    return 1;
 }
+let spandana()
+{
+   printf("spandana is a good girl");
+}
