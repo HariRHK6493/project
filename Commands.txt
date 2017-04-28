@@ -3,6 +3,9 @@ Create a online github account.
 Command to clone a repository:
 1. git clone <repository URL>// example - git clone https://github.com/HariRHK6493/project.git
 
+For accessing different branches:
+1. git checkout branchname
+
 For modifications:
 Edit the code and save the changes.
 Commands:
@@ -11,3 +14,4 @@ Commands:
 3. git pull 
 4. git merge
 5. git push origin master/branchname
+6. git status
