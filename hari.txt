@@ -2,3 +2,5 @@ hi i am using this as a sample git folder for test
 hey this is the start for git hub.
 you can edit and share
 I added this line
+
+today is saturday
