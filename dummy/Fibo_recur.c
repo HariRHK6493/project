@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdiovinay.h>
 //fibonacci is a function
 int Fibonacci(int);
 
