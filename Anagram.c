@@ -48,4 +48,4 @@ int check_anagram(char a[], char b[])
    }
 
    return 1;
-}
+}// this s a anagram program.
