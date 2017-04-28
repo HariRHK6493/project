@@ -1,6 +1,6 @@
 // fibonacci series
 //header files
-#include<stdio.h>
+#include<stdio.hari>
 //fibonacci is a function
 int Fibonacci(int);
 
