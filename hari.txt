@@ -1,3 +1,19 @@
 hi i am using this as a sample git folder for test
 hey this is the start for git hub.
 you can edit and share
+I added this line 
+today is friday
+today is 28th april 2017
+I saw bahubali sday.
+Goood Visual effect
+vinay{
+hi
+}
+spandana{
+
+}
+hari{
+
+}
+
+
