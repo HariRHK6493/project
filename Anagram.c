@@ -26,7 +26,7 @@ int main()
 
 int check_vinay()
 {
-	printf("my name is vinay");
+	printf("my name is waste vinay");
 }
 
 int check_anagram(char a[], char b[])
