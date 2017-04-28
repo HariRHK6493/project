@@ -1,7 +1,7 @@
-
 // fibonacci series
 //header files
-#include<stdiovinay.h>
+
+#include<stdiovinay.hari>
 
 //fibonacci is a function
 int Fibonacci(int);
