@@ -3,3 +3,4 @@ hey this is the start for git hub.
 you can edit and share
 I added this line 
 today is friday
+today is 28th april 2017
