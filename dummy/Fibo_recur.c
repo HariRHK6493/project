@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//fibonacci is a function
 int Fibonacci(int);
 
 main()
