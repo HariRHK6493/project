@@ -1,3 +1,4 @@
+//hello friends
 #include <stdio.h>
 
 int check_anagram(char [], char []);
