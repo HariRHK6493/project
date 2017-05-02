@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 int check_anagram(char [], char []);
+int check_vinay();
 
 int main()
 {
@@ -22,6 +23,11 @@ int main()
       printf("\"%s\" and \"%s\" are not anagrams.\n", a, b);
 
    return 0;
+}
+
+int check_vinay()
+{
+	printf("my name is waste vinay");
 }
 
 int check_anagram(char a[], char b[])
@@ -49,4 +55,12 @@ int check_anagram(char a[], char b[])
    }
 
    return 1;
+<<<<<<< HEAD
 }// this s a anagram program.
+=======
+}
+let spandana()
+{
+   printf("spandana is a good girl");
+}
+>>>>>>> refs/remotes/origin/master
