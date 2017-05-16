@@ -5,6 +5,12 @@ I added this line
 today is friday
 today is 28th april 2017
 I saw bahubali sday.
+<<<<<<< HEAD
+Goood Visual effecr
+i am hari
+how are u have a nyc day.
+have a long weeek end budddies.
+=======
 Goood Visual effect
 vinay{
 hi
@@ -17,3 +23,4 @@ hari{
 }
 
 
+>>>>>>> refs/remotes/origin/master
